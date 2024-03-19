@@ -1,4 +1,4 @@
-# 6.0 DIY API
+# Jokes API
 
 This is a simple DIY API for creating, reading, updating and deleting jokes. It has the following endpoints:
 
